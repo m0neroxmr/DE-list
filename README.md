@@ -226,6 +226,7 @@
 - [Zilla](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 - [SwimOS](https://github.com/swimos/swim-rust) - A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.
 - [Pathway](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+- [StreamPulse](https://github.com/Yacine-ai-tech/StreamPulse) - Real-time Kafka telemetry ingestion and stream processing pipeline with Redis sliding-window aggregations and live dashboard.
 
 ## Batch Processing
 
